@@ -1,2 +1,5 @@
-.sass-cache/
-*.css.map
+# isso é um comentário
+*.bkp.*
+pacotes/
+js/#dep
+\#outros/
